@@ -2,13 +2,11 @@
     margin: 3%;
     padding: 2%;
     background-color: whitesmoke;
-    opacity: 80%;
+    opacity: 90%;
 }
 body {
     background-image: url("images/einstein.jpg");
-    background-size: cover;
-    /*background-repeat: no-repeat;*/
+    background-size: 100px;
     background-color: black;
-    /*background-position: center;*/
     font-family: 'Roboto', sans-serif;
 }
