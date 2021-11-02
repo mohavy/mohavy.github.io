@@ -1,3 +1,14 @@
-.help {
-    background-color: red;
+.content-container {
+    margin: 3%;
+    padding: 2%;
+    background-color: whitesmoke;
+    opacity: 80%;
+}
+body {
+    background-image: url("images/einstein.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
 }
