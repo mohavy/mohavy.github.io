@@ -1,1 +1,0 @@
-# mohavy.github.io
